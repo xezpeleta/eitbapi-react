@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eitbapi-react/static/css/main.00aa6d6c.css",
+    "main.js": "/eitbapi-react/static/js/main.4ec099b2.js",
+    "static/js/787.97c0b427.chunk.js": "/eitbapi-react/static/js/787.97c0b427.chunk.js",
+    "index.html": "/eitbapi-react/index.html",
+    "main.00aa6d6c.css.map": "/eitbapi-react/static/css/main.00aa6d6c.css.map",
+    "main.4ec099b2.js.map": "/eitbapi-react/static/js/main.4ec099b2.js.map",
+    "787.97c0b427.chunk.js.map": "/eitbapi-react/static/js/787.97c0b427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00aa6d6c.css",
+    "static/js/main.4ec099b2.js"
+  ]
+}
